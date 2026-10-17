@@ -13,13 +13,13 @@ import urllib.request
 
 USERNAME = "danbuildss"
 ROLE     = "Founder"
-STATUS   = "Currently building Luca & CORTX"
+STATUS   = "Currently building MuseCourt, Breakra, CORTX & Luca"
 TOOLS    = ["TypeScript", "Next.js", "Python", "Claude API"]
 PROJECTS = [
-    ("Luca",    "financial agent onchain"),
-    ("CORTX",   "reliability infra for x402"),
-    ("SOMEHOW", "text & voice note convos"),
-    ("OFFLINE", "IRL gathering for builders"),
+    ("MuseCourt", "a court system for AI agents"),
+    ("Breakra",   "catches breaking API changes for agents"),
+    ("CORTX",     "reliability infra for x402"),
+    ("Luca",      "financial agent onchain"),
 ]
 CONTACT  = "x.com/danbuildss"
 
