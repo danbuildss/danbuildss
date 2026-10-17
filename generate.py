@@ -414,9 +414,11 @@ def snake_svg(weeks: list, theme: str) -> str:
 
 def main():
     token = os.environ.get("GH_TOKEN", "").strip()
+    # Strip any non-ASCII characters introduced by copy-paste (e.g. invisible Unicode)
+    token = token.encode("ascii", errors="ignore").decode("ascii").strip()
     if not token:
         print("ERROR: GH_TOKEN environment variable is not set.", file=sys.stderr)
-        print("Run:  GH_TOKEN=$(gh auth token) python3 generate.py", file=sys.stderr)
+        print("Run:  GH_TOKEN=your_token python3 generate.py", file=sys.stderr)
         sys.exit(1)
 
     print("Querying GitHub API...", flush=True)
