@@ -13,6 +13,8 @@
 <br/>
 
 [![X](https://img.shields.io/badge/X-@danbuildss-000000?style=flat&logo=x&logoColor=white)](https://x.com/danbuildss)
-[![Luca](https://img.shields.io/badge/Luca-askluca.xyz-58a6ff?style=flat)](https://www.askluca.xyz/)
+[![MuseCourt](https://img.shields.io/badge/MuseCourt-musecourt.xyz-d29922?style=flat)](https://musecourt.xyz/)
+[![Breakra](https://img.shields.io/badge/Breakra-breakra.dev-f85149?style=flat)](https://breakra.dev/)
 [![CORTX](https://img.shields.io/badge/CORTX-usecortx.dev-39d353?style=flat)](https://www.usecortx.dev/overview)
+[![Luca](https://img.shields.io/badge/Luca-askluca.xyz-58a6ff?style=flat)](https://www.askluca.xyz/)
 [![Somehow](https://img.shields.io/badge/Somehow-somehowinternet.app-8b949e?style=flat)](https://somehowinternet.app)
