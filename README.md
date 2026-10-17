@@ -15,4 +15,4 @@
 [![X](https://img.shields.io/badge/X-@danbuildss-000000?style=flat&logo=x&logoColor=white)](https://x.com/danbuildss)
 [![Luca](https://img.shields.io/badge/Luca-askluca.xyz-58a6ff?style=flat)](https://www.askluca.xyz/)
 [![CORTX](https://img.shields.io/badge/CORTX-usecortx.dev-39d353?style=flat)](https://www.usecortx.dev/overview)
-[![Somehow](https://img.shields.io/badge/Somehow-somehowinternet.com-8b949e?style=flat)](https://somehowinternet.com)
+[![Somehow](https://img.shields.io/badge/Somehow-somehowinternet.app-8b949e?style=flat)](https://somehowinternet.app)
